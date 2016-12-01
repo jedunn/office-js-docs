@@ -1,6 +1,6 @@
 # UX design pattern templates for Office Add-ins 
 
-The [UX design patterns for Office Add-ins project](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "UX design patterns for Office Add-ins project") includes HTML, JavaScript, and CSS files that you can use to create the UX for your add-in.   
+The [UX design patterns for Office Add-ins project](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code "UX design patterns for Office Add-ins project") includes HTML, JavaScript, and CSS files that you can use to create the UX for your add-in.  
 
 Use the UX design patterns project to:
 
@@ -11,7 +11,7 @@ Use the UX design patterns project to:
 
 ## Using the UX design patterns
 
-You can use the [UX designer specifications](https://github.com/OfficeDev/Office-Add-in-Design-Patterns/blob/master/Patterns/Source%20Files) as a guide when you create your own UX design, or you can add the [source code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates) directly to your project.
+You can use the [UX designer specifications](https://github.com/OfficeDev/Office-Add-in-Design-Patterns) as a guide when you create your own UX design, or you can add the [source code](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates) directly to your project.
 
 To use the specifications to build a mock-up of your own add-in UI:
 
